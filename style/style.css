@@ -86,7 +86,7 @@
     }
 
     .btn-forward {
-        background-image: url("./style/img/go.svg");
+        background-image: url("./img/go.svg");
         background-color:white;
         border:none;
         width:40px;
@@ -98,7 +98,7 @@
     .btn-lenovo::after {
         position: absolute;
         content: '';
-        background-image: url("./style/img/lenovo.png");
+        background-image: url("./img/lenovo.png");
         width:108px;
         height:32px;
         left:16px;
@@ -108,7 +108,7 @@
     .btn-samsung::after {
         position: absolute;
         content: '';
-        background-image: url("./style/img/samsung.png");
+        background-image: url("./img/samsung.png");
         width:116px;
         height:39px;
         left:16px;
@@ -118,7 +118,7 @@
     .btn-apple::after {
         position: absolute;
         content: '';
-        background-image: url("./style/img/apple.png");
+        background-image: url("./img/apple.png");
         background-repeat: no-repeat;
         width:44px;
         height:44px;
@@ -129,7 +129,7 @@
     .btn-view-sonic::after {
         position: absolute;
         content: '';
-        background-image: url("./style/img/view_sonic.png");
+        background-image: url("./img/view_sonic.png");
         background-repeat: no-repeat;
         width:128px;
         height:21px;
@@ -139,7 +139,7 @@
     .btn-bosch::after {
         position: absolute;
         content: '';
-        background-image: url("./style/img/bosch.png");
+        background-image: url("./img/bosch.png");
         background-repeat: no-repeat;
         width:128px;
         height:29px;
@@ -150,7 +150,7 @@
     .btn-hp::after {
         position: absolute;
         content: '';
-        background-image: url("./style/img/hp.png");
+        background-image: url("./img/hp.png");
         background-repeat: no-repeat;
         width:52px;
         height:52px;
@@ -161,7 +161,7 @@
     .btn-acer::after {
         position: absolute;
         content: '';
-        background-image: url("./style/img/acer.png");
+        background-image: url("./img/acer.png");
         background-repeat: no-repeat;
         width:94px;
         height:24px;
@@ -172,7 +172,7 @@
     .btn-sony::after {
         position: absolute;
         content: '';
-        background-image: url("./style/img/sony.png");
+        background-image: url("./img/sony.png");
         background-repeat: no-repeat;
         width:128px;
         height:26px;
@@ -223,7 +223,7 @@
     .btn::after {
         position: absolute;
         content: '';
-        background-image: url("./style/img/icon.svg");
+        background-image: url("./img/icon.svg");
         width:8px;
         height:12px;
         background-repeat: no-repeat;
