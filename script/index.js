@@ -7,9 +7,9 @@ function btnClick() {
     console.log(content.classList);
 
     if (content.classList.contains("btn")) {
-        btn.textContent="Скрыть";
-    } else {
         btn.textContent="Показать все";
+    } else {
+        btn.textContent="Скрыть";
     }
 
     content.classList.toggle("main-menu--open");
